@@ -1,7 +1,7 @@
 
 # Hi 👋, I'm Mallina Sriram Sai Eswar
 
-### Detail-oriented B.Tech AI&ML student with good analytical thinking, teamwork skills, and consistent learning  habits. Open to exploring new ideas and improving through hands-on practice.
+### Detail-oriented B.Tech AI&ML student with good analytical thinking, teamwork skills, and consistent learning  habits. Open to exploring new ideas and improving through hands-on practice.  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
