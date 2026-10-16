@@ -40,7 +40,7 @@
 <tr>
 <td width="20%" align="center"><strong>Jupyter Notebook</strong><br /><sub>76% of public code</sub></td>
 <td width="20%" align="center"><strong>JavaScript</strong><br /><sub>14% of public code</sub></td>
-<td width="20%" align="center"><strong>Python</strong><br /><sub>6% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>100% of public code</sub></td>
 <td width="20%" align="center"><strong>CSS</strong><br /><sub>3% of public code</sub></td>
 <td width="20%" align="center"><strong>HTML</strong><br /><sub>1% of public code</sub></td>
 </tr>
