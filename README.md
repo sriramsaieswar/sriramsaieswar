@@ -1,38 +1,64 @@
-<h1 align="center">Hi 👋, I'm Mallina Sriram Sai Eswar</h1>
-<h3 align="center">AI/ML Enthusiast | DSA & Problem Solving | Future AI Engineer ⚡</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sriramsaieswar&label=Profile%20views&color=0e75b6&style=flat" alt="sriramsaieswar" /> </p>
+<img src="https://www.gitskins.com/api/section/portrait?username=sriramsaieswar&theme=github-dark&style=terminal&color=1&motion=cap-tip&v=signature-cap-tip-1&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174000824%3Fu%3D9fe0aa79d2a1d470b139c6ef6b364d9972ecc872%26v%3D4" width="620" alt="Mallina Sriram Sai Eswar animated graduation portrait" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sriramsaieswar" alt="sriramsaieswar" /></a> </p>
+<h1>Mallina Sriram Sai Eswar</h1>
+<h3>Frontend or full-stack engineer</h3>
 
-- 🔭 I’m currently working on **Building AI/ML projects and strengthening my DSA and problem-solving skills.**
+<p><a href="https://github.com/sriramsaieswar"><img src="https://img.shields.io/badge/FOLLOW-22d3ee?style=for-the-badge&amp;labelColor=0d1117" alt="FOLLOW" /></a> <a href="https://github.com/sriramsaieswar?tab=repositories"><img src="https://img.shields.io/badge/6_PUBLIC_REPOSITORIES-7c3aed?style=for-the-badge&amp;labelColor=0d1117" alt="6 PUBLIC REPOSITORIES" /></a> <img src="https://img.shields.io/badge/BUILDING-34d399?style=for-the-badge&amp;labelColor=0d1117" alt="BUILDING" /></p>
 
-- 🌱 I’m currently learning **DSA, Machine Learning, Generative AI, RAG, and AI Engineering.**
+<p>AIML student passionate about AI, ML, GenAI, and problem solving. Building real-world projects and improving my coding skills. 🧠</p>
 
-- 👯 I’m looking to collaborate on **AI/ML projects, GenAI applications, and interesting coding problems.**
+</div>
 
-- 🤝 I’m looking for help with **Improving my problem-solving approach and mastering advanced DSA concepts.**
+## The mission
 
-- 💬 Ask me about **Python, SQL, Machine Learning, AI, DSA, and coding.**
+AI agents are becoming software collaborators. Their output needs the same rigor as any other production dependency.
 
-- 📫 How to reach me **saieswarmallina@gmail.com**
+AIML student passionate about AI, ML, GenAI, and problem solving. Building real-world projects and improving my coding skills. 🧠
 
-- ⚡ Fun fact **I love solving problems and learning something new every day. 🔥**
+I’m building a profile that makes the work easy to understand: what I care about, what I’m shipping, and where the proof lives.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/m-sriram-sai-eswar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/m-sriram-sai-eswar/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/23a31a42h9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/23a31a42h9" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/23a31a42h9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/23a31a42h9/" height="30" width="40" /></a>
-</p>
+## What I’m building
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sriramsaieswar&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=sriramsaieswar&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sriramsaieswar&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<table width="100%">
+<tr>
+<td width="50%" valign="top"><h3>⚡ <a href="https://github.com/sriramsaieswar/JARVIS-Voice-Assistant">JARVIS-Voice-Assistant</a></h3><p>A selected public project from this profile.</p><p><strong>Why it matters:</strong> a concrete proof point from sriramsaieswar's public work.</p><p><a href="https://github.com/sriramsaieswar/JARVIS-Voice-Assistant">Explore project →</a></p></td>
+<td width="50%" valign="top"><h3>⚡ <a href="https://github.com/sriramsaieswar/Personal_Portfolio">Personal_Portfolio</a></h3><p>Eswar’s Personal Portfolio: Interactive React website showcasing my AI/ML projects, skills, and professional profile with smooth animations and responsive design.</p><p><strong>Why it matters:</strong> a concrete proof point from sriramsaieswar's public work.</p><p><a href="https://github.com/sriramsaieswar/Personal_Portfolio">Explore project →</a></p></td>
+</tr>
+</table>
 
-[![](https://komarev.com/ghpvc/?username=sriramsaieswar&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center"><a href="https://github.com/sriramsaieswar?tab=repositories">Explore repositories →</a> · <a href="https://github.com/sriramsaieswar?tab=stars">See open-source signal →</a></p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Technology arsenal
+
+<div align="center">
+
+<img src="https://www.gitskins.com/api/readme-reference/technology-stack?username=sriramsaieswar&theme=github-dark&logos=Jupyter%20Notebook%2CJavaScript%2CPython%2CCSS%2CHTML%2CShell%2CProcfile&v=signature-cap-tip-languages-3" alt="Mallina Sriram Sai Eswar technology stack" />
+
+</div>
+
+<table width="100%">
+<tr><td width="28%"><strong>Languages & tools</strong></td><td>Jupyter Notebook | JavaScript | Python | CSS | HTML | Shell | Procfile</td></tr>
+<tr><td><strong>Profile focus</strong></td><td>JARVIS-Voice-Assistant · Personal_Portfolio · -Heart-Disease-Prediction-app</td></tr>
+<tr><td><strong>GitHub signal</strong></td><td>12 repositories · 1 stars · 65 contributions</td></tr>
+</table>
+
+## Open-source signal
+
+<div align="center">
+
+<img src="https://www.gitskins.com/api/readme-reference/contribution-calendar?username=sriramsaieswar&theme=github-dark&v=signature-cap-tip-summary-1" width="620" alt="Mallina Sriram Sai Eswar GitHub contribution summary" />
+
+<img src="https://www.gitskins.com/api/readme-reference/character-calendar?username=sriramsaieswar&theme=github-dark&motion=subtle&v=signature-cap-tip-calendar-1" width="620" alt="Mallina Sriram Sai Eswar contribution activity" />
+
+</div>
+
+## Let’s build useful software
+
+I’m interested in collaborating with founders, engineers, AI infrastructure teams, and open-source maintainers working on hard problems with care and curiosity.
+
+<p align="center"><a href="https://github.com/sriramsaieswar"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&amp;labelColor=0d1117" alt="GITHUB" /></a> <a href="https://github.com/sriramsaieswar?tab=repositories"><img src="https://img.shields.io/badge/FOLLOW_MY_WORK-0d1117?style=for-the-badge&amp;labelColor=0d1117" alt="FOLLOW MY WORK" /></a> <a href="https://github.com/sriramsaieswar"><img src="https://img.shields.io/badge/BUILD_WITH_ME-22d3ee?style=for-the-badge&amp;labelColor=0d1117" alt="BUILD WITH ME" /></a></p>
+
+<div align="center"><sub>Build boldly · test thoughtfully · ship safely</sub></div>
+Preview is free. Sign up to publish, copy, or download this template.
