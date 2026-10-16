@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm Mallina Sriram Sai Eswar</h1>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
+
+# Hey, I'm Mallina Sriram Sai Eswar!
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI%20Engineer)](https://git.io/typing-svg)
+
+</div>
 <h3 align="center">AI/ML Enthusiast | DSA & Problem Solving | Future AI Engineer ⚡</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriramsaieswar&label=Profile%20views&color=0e75b6&style=flat" alt="sriramsaieswar" /> </p>
