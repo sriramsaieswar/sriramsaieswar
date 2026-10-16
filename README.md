@@ -1,16 +1,22 @@
-<h1>Mallina Sriram Sai Eswar</h1>
-<p><strong>Frontend or full-stack engineer</strong></p>
-<p>AIML student passionate about AI, ML, GenAI, and problem solving. Building real-world projects and improving my coding skills. 🧠</p>
-<p><sub>Building at EduSkills Foundation</sub></p>
+<div align="center">
 
 <table width="100%">
 <tr>
-<td width="25%" align="center"><strong>5</strong><br /><sub>Followers</sub></td>
-<td width="25%" align="center"><strong>12</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>1</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>65</strong><br /><sub>Contributions</sub></td>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · sriramsaieswar</sub></p>
+<h1>Mallina Sriram Sai Eswar</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>AIML student passionate about AI, ML, GenAI, and problem solving. Building real-world projects and improving my coding skills.</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Building at EduSkills Foundation</sub></p>
+<p><a href="https://github.com/sriramsaieswar">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/174000824?u=9fe0aa79d2a1d470b139c6ef6b364d9972ecc872&amp;v=4" width="180" alt="Mallina Sriram Sai Eswar GitHub avatar" />
+</td>
 </tr>
 </table>
+</div>
 <h2>Technical toolkit</h2>
 
 <p align="center">
